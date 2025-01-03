@@ -1,7 +1,7 @@
 # Yuri
 Yuri is an AI agent Build with [rig](https://github.com/0xPlaygrounds/rig/)
 
-![banner]([https://pbs.twimg.com/profile_images/1875218329444536327/6CP9XGYs_400x400.jpg](https://pbs.twimg.com/profile_images/1875218329444536327/6CP9XGYs_400x400.jpg))
+![banner](https://pbs.twimg.com/media/GgVQsEyWoAAWO7M?format=jpg&name=900x900)
 
 Follow our AI agent: [@Yuri_AI](https://x.com/YuriRig_)
 
